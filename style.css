@@ -1,0 +1,110 @@
+body{
+  background-color:#343436;;
+  color:white;}
+.Lobster{
+  color:white;
+}
+.text-center{
+  font-size:30px;
+}
+.red:hover{
+    background-color:red; }
+a{
+  color:white;
+}
+.a:hover{
+    color:yellow;
+font-size: 120%;}
+.small{margin-left:10px;
+  padding-bot:10px;
+  height:30px;
+border-radius:5px;
+border: 1px solid white;}
+.small-img{height:60px}
+.md-img{height:215px;
+  border:2px solid white;
+  margin:20px;
+  box-shadow: 3px 3px 10px #888888;  
+}
+.same-img{height:200px;
+  width:280px;
+  border:2px solid white;
+  margin:20px;
+  box-shadow: 3px 3px 10px #888888; }
+.xs-img{height:90px}
+.top{
+  margin-top:85px;
+  background:url("http://www.hdfinewallpapers.com/HDWallpapers/Big/Countries-and-City/High_and_Tallest_Building_of_Metro_City_in_Night_Look_HD_Images.jpg");
+  font-family:Lobster,Arial;
+  font-size:35px;  
+  height: 65px;
+  width:auto;
+  border: 3px solid black;
+    }
+.top1{margin-top:15px;
+   background:url("http://www.hdfinewallpapers.com/HDWallpapers/Big/Countries-and-City/High_and_Tallest_Building_of_Metro_City_in_Night_Look_HD_Images.jpg");
+  font-family:Lobster,Arial;
+  font-size:15px;  
+  height: 65px;
+  width:100%;
+  border: 3px solid black;
+    }
+.arrs{ border-style:solid;
+  border-width: 2px;
+  border-color:white;
+  border-radius:15%;
+ }
+.main{
+  padding-bot:20px;
+  padding-left:40px;
+  background:url("http://www.hdfinewallpapers.com/HDWallpapers/Big/Countries-and-City/High_and_Tallest_Building_of_Metro_City_in_Night_Look_HD_Images.jpg");
+    font-family:Lobster;
+  font-size:30px;
+    height:850px;
+  width:95%;
+  border: 7px solid silver;
+  box-shadow: 5px 5px 10px #888888;}
+.projekty{
+    background:url("http://s10.ifotos.pl/img/work-wall_aspnxqp.png");
+    font-family:Lobster;
+    font-size:40px;
+    height:925px;
+    width:95%;
+    border: 7px solid silver;
+    box-shadow: 5px 5px 10px #888888;
+}
+.links{
+  margin-top:200px;
+  font-size:40px;
+  }
+.marg{margin:50px;}
+.marg1{margin-top:130px;}
+.btn-default1{
+  color:blue;
+  background-color:black;
+  font-size:80%;
+  border:1px solid white;
+}
+.b{color:blue;
+  font-text:40px;}
+.r{color:red;}
+.g{color:green;}
+.w{color:white;}
+.m1{
+  margin:10px 125px ;
+  padding:40px 60px;
+  background:url("http://s5.ifotos.pl/img/brickjpg_awnwsww.png");
+  height:30%;  
+}
+h1{
+  margin-top:120px}
+#contact{scrollTo(400,0)}
+.me{color:silver;
+  margin-top:170px;
+  margin-left:140px;
+}
+.footer{
+  font-size:1em;
+  display:flex;
+  justify-content:center;
+}
