@@ -33,12 +33,12 @@ border: 1px solid white;}
   box-shadow: 3px 3px 10px #888888; }
 .xs-img{height:90px}
 .top{
-  margin-top:85px;
+  margin-top:35px;
   background:url("http://www.hdfinewallpapers.com/HDWallpapers/Big/Countries-and-City/High_and_Tallest_Building_of_Metro_City_in_Night_Look_HD_Images.jpg");
   font-family:Lobster,Arial;
   font-size:35px;  
   height: 65px;
-  width:auto;
+  width:1920px;
   border: 3px solid black;
     }
 .top1{margin-top:15px;
@@ -46,7 +46,7 @@ border: 1px solid white;}
   font-family:Lobster,Arial;
   font-size:15px;  
   height: 65px;
-  width:100%;
+  width:1920px;
   border: 3px solid black;
     }
 .arrs{ border-style:solid;
@@ -55,21 +55,20 @@ border: 1px solid white;}
   border-radius:15%;
  }
 .main{
-  padding-bot:20px;
-  padding-left:40px;
   background:url("http://www.hdfinewallpapers.com/HDWallpapers/Big/Countries-and-City/High_and_Tallest_Building_of_Metro_City_in_Night_Look_HD_Images.jpg");
-    font-family:Lobster;
-  font-size:30px;
-    height:850px;
-  width:95%;
+  font-family:Lobster;
+  font-size:40px;
+  height:850px;
+  width:1800px;
   border: 7px solid silver;
-  box-shadow: 5px 5px 10px #888888;}
+  box-shadow: 5px 5px 10px #888888;
+}
 .projekty{
     background:url("http://s10.ifotos.pl/img/work-wall_aspnxqp.png");
     font-family:Lobster;
     font-size:40px;
     height:925px;
-    width:95%;
+    width:1800px;
     border: 7px solid silver;
     box-shadow: 5px 5px 10px #888888;
 }
@@ -104,6 +103,7 @@ h1{
   margin-left:140px;
 }
 .footer{
+  margin:15px;
   font-size:1em;
   display:flex;
   justify-content:center;
