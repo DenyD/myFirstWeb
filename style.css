@@ -21,24 +21,24 @@ font-size: 120%;}
 border-radius:5px;
 border: 1px solid white;}
 .small-img{height:60px}
-.md-img{height:215px;
+.md-img{height:265px;
   border:2px solid white;
-  margin:20px;
+  margin:30px;
   box-shadow: 3px 3px 10px #888888;  
 }
-.same-img{height:200px;
-  width:280px;
+.same-img{height:250px;
+  width:360px;
   border:2px solid white;
-  margin:20px;
+  margin:30px;
   box-shadow: 3px 3px 10px #888888; }
 .xs-img{height:90px}
 .top{
-  margin-top:35px;
+  margin-top:15px;
   background:url("http://www.hdfinewallpapers.com/HDWallpapers/Big/Countries-and-City/High_and_Tallest_Building_of_Metro_City_in_Night_Look_HD_Images.jpg");
   font-family:Lobster,Arial;
   font-size:35px;  
   height: 65px;
-  width:1920px;
+  width:1900px;
   border: 3px solid black;
     }
 .top1{margin-top:15px;
@@ -73,10 +73,11 @@ border: 1px solid white;}
     box-shadow: 5px 5px 10px #888888;
 }
 .links{
-  margin-top:200px;
+  margin-top:300px;
+  margin-left:80px;
   font-size:40px;
   }
-.marg{margin:50px;}
+.marg{margin-top:60px;}
 .marg1{margin-top:130px;}
 .btn-default1{
   color:blue;
@@ -89,12 +90,7 @@ border: 1px solid white;}
 .r{color:red;}
 .g{color:green;}
 .w{color:white;}
-.m1{
-  margin:10px 125px ;
-  padding:40px 60px;
-  background:url("http://s5.ifotos.pl/img/brickjpg_awnwsww.png");
-  height:30%;  
-}
+
 h1{
   margin-top:120px}
 #contact{scrollTo(400,0)}
